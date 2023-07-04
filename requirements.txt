@@ -1,0 +1,13 @@
+numpy~=1.23.3
+czifile~=2019.7.2
+PyQt5~=5.15.9
+scipy~=1.10.1
+tifffile~=2023.4.12
+lxml~=4.9.1
+matplotlib~=3.6.0
+pyqtgraph~=0.13.3
+numba~=0.57.1
+opencv-python~=4.5.5.64
+networkx~=2.3
+scikit-image~=0.19.0
+scikit-learn~=1.1.2
